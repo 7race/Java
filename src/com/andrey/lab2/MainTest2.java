@@ -9,7 +9,7 @@ class MainTest2 {
     @Test
     @DisplayName("check min from three method")
     void min() {
-        assertEquals(Main.min(1, 2, 3), 1);
+        assertEquals(Main.min(100, 243, 31), 31);
         assertEquals(Main.min(0, 0, 0), 0);
     }
 }

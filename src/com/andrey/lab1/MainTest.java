@@ -25,7 +25,7 @@ class MainTest {
     @Test
     @DisplayName("check wrong swap method with the same indexes")
     void swapTheSameIndex(){
-        int[] array = {1, 2, 3, 4, 5, 6};
+        int[] array = {1, 2, 3, 4, 5, 6, 7, 8, 9};
         boolean swap = Main.swap(3, 3, array);
         assertTrue(swap);
     }
@@ -33,7 +33,7 @@ class MainTest {
     @Test
     @DisplayName("check wrong swap method with incorrect indexes")
     void swapIndexOutOfBounds(){
-        int[] array = {1, 2, 3, 4, 5, 6};
+        int[] array = {1, 2, 3, 4, 5, 6, 7, 8, 9};
         boolean swap = Main.swap(6, 7, array);
         assertFalse(swap);
     }

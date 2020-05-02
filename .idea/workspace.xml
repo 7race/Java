@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2d5705c-cea5-4133-a7ff-d845b7e92c66" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/Laba_1/META-INF/Laba_1.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laba_1/com/andrey/lab1/Main$MainTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laba_1/com/andrey/lab1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laba_1/com/andrey/lab1/MainTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laba_1/com/andrey/lab2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laba_1/com/andrey/lab2/MainTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/andrey/lab1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/andrey/lab1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/andrey/lab1/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/andrey/lab1/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/andrey/lab2/MainTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/andrey/lab2/MainTest2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
