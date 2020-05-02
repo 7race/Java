@@ -8,11 +8,11 @@ public class Main {
         System.out.println(min(1,2,3));
     }
 
-    static int min(int a, int b, int c) {
+    static int min(int x, int y, int z) {
         ArrayList<Integer> elements = new ArrayList<>();
-        elements.add(a);
-        elements.add(b);
-        elements.add(c);
+        elements.add(x);
+        elements.add(y);
+        elements.add(z);
 
         return Collections.min(elements);
     }

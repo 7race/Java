@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class MainTest2 {
     @Test
-    @DisplayName("check min method")
+    @DisplayName("check min from three method")
     void min() {
         assertEquals(Main.min(1, 2, 3), 1);
         assertEquals(Main.min(0, 0, 0), 0);
